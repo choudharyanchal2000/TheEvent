@@ -1,6 +1,6 @@
 .backimage{
     background-color: #000;
-    background-image: url(/background.webp);
+    background-image: url(background.webp);
     background-repeat: no-repeat;
     background-size: 100% 100%;
    
@@ -33,7 +33,7 @@
     font-family:cursive;
 }
 .backphoto{
-    background-image: url(/backphoto.jpg);
+    background-image: url(backphoto.jpg);
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
